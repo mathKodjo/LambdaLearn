@@ -1,0 +1,11 @@
+Add.java
+ Add
+com/javacircle/lambda/advanced/Calc.java
+ com.javacircle.lambda.advanced.Calc
+com/javacircle/lambda/basic/LambdaExpressions.java
+ com.javacircle.lambda.basic.LambdaExpressions
+ com.javacircle.lambda.basic.StringLenghLambda
+com/javacircle/lambda/advanced/Add.java
+ com.javacircle.lambda.advanced.Add
+com/javacircle/lambda/advanced/CalcMain.java
+ com.javacircle.lambda.advanced.CalcMain
